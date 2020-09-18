@@ -1,3 +1,8 @@
+NOME: Murilo ALberto dos Santos
+RA: 1903619
+
+
+
 Exemplo comando Clone:
 1 - Criando o repotório via interface WEB(criandoRepositorioWeb.png)  
 2 - ls mostrando diretorio vazio(lsPastaVazia.png)  
@@ -12,3 +17,20 @@ Exemplo comando COMMIT:
 
 Exemplo comando PUSH:  
 1 - git push (pushRepositorio.png) #Alteração feita para tirar do local repo  
+
+
+Exemplo comando PULL:  
+1 - git pull(pullRepositorio.png) # Exemplo para atualizar o repositorio local  
+
+
+Exemplo comando CHECKOUT:
+1 - git checkout 'branchTeste'(checkoutRepositorio) #Exemplo para mudar de branches 
+
+
+Exemplo comando FETCH:  
+1 - git fetch (fetchRepositorio.png) #Exemplo para atualizar o repositorio local  
+
+
+
+
+
